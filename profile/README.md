@@ -1,3 +1,3 @@
 # Open MOSS
 
-![OpenMOSS](profile/open-moss.png)
+![OpenMOSS](./open-moss.png)

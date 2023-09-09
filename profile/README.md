@@ -26,6 +26,8 @@ OpenMOSS交流群：238111072
 
 ### 3D打印模型
 
+[moss-3d-print-library](https://github.com/open-moss/moss-3d-print-library) - MOSS打印模型库
+
 🏗️ 建模中...
 
 ## 技术路线
